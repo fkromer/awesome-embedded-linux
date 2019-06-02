@@ -8,6 +8,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 - [Build systems](#build-systems)
 - [Distributions](#distributions)
+- [Hypervisors](#hypervisors)
 - [Kernel patches](#kernel-patches)
 
 ## Build systems
@@ -41,6 +42,10 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Ubuntu Core](https://www.ubuntu.com/core).
 - [ELinOS](https://www.sysgo.com/products/elinos-embedded-linux).
 - [Sailfish OS](https://sailfishos.org/).
+
+## Hypervisors
+
+- [Jailhouse](https://github.com/siemens/jailhouse) - Linux-based partitioning hypervisor.
 
 ## Kernel patches
 
