@@ -10,6 +10,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Distributions](#distributions)
 - [Hypervisors](#hypervisors)
 - [Kernel patches](#kernel-patches)
+- [Kernel modules](#kernel-modules)
 
 ## Build systems
 
@@ -50,3 +51,12 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 ## Kernel patches
 
 - [PREEMPT_RT patch](https://rt.wiki.kernel.org/index.php/Main_Page) - "Controlling a laser with Linux is crazy, but everyone in this room is crazy in his own way. So if you want to use Linux to control an industrial welding laser, I have no problem with you using PREEMPT_RT." -- Linus Torvalds.
+
+## Kernel modules
+
+- [AppArmor](https://www.kernel.org/doc/html/v4.15/admin-guide/LSM/apparmor.html) - Linux Security Module that provides MAC style security extension for the Linux kernel.
+- [LoadPin](https://www.kernel.org/doc/html/v4.15/admin-guide/LSM/LoadPin.html) - Linux Security Module that ensures all kernel-loaded files (modules, firmware, etc) all originate from the same filesystem, with the expectation that such a filesystem is backed by a read-only device
+- [SELinux](https://www.kernel.org/doc/html/v4.15/admin-guide/LSM/SELinux.html) - Linux Security Module
+- [SMACK](https://www.kernel.org/doc/html/v4.15/admin-guide/LSM/Smack.html) - Linux Security Module providing mandatory access control that includes simplicity in its primary design goals.
+ - [TOMOYO](https://www.kernel.org/doc/html/v4.15/admin-guide/LSM/tomoyo.html) - Linux Security Module adding name-based MAC to the Linux kernel.
+ - [Yama](https://www.kernel.org/doc/html/v4.15/admin-guide/LSM/Yama.html) - inux Security Module that collects system-wide DAC security protections that are not handled by the core kernel itself.
