@@ -8,6 +8,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 - [Build systems](#build-systems)
 - [Distributions](#distributions)
+- [Kernel patches](#kernel-patches)
 
 ## Build systems
 
@@ -40,3 +41,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Ubuntu Core](https://www.ubuntu.com/core).
 - [ELinOS](https://www.sysgo.com/products/elinos-embedded-linux).
 - [Sailfish OS](https://sailfishos.org/).
+
+## Kernel patches
+
+- [PREEMPT_RT patch](https://rt.wiki.kernel.org/index.php/Main_Page) - "Controlling a laser with Linux is crazy, but everyone in this room is crazy in his own way. So if you want to use Linux to control an industrial welding laser, I have no problem with you using PREEMPT_RT." -- Linus Torvalds.
