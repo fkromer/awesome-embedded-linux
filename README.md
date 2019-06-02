@@ -6,7 +6,24 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Contents
 
+- [Build systems](#build-systems)
 - [Distributions](#distributions)
+
+## Build systems
+
+- [buildroot](https://www.buildroot.org/).
+- [Debos](https://github.com/go-debos/debos) - Debian OS builder.
+- [ELBE](https://elbe-rfs.org/) - Debian based E.mbedded L.inux B.uild E.nvironment.
+- [Isar](https://github.com/ilbers/isar) - Integration System for Automated Root filesystem generation (Debian).
+- [LFS](http://www.linuxfromscratch.org/) - Linux system from source code.
+- [LTIB](http://savannah.nongnu.org/projects/ltib) - Unmaintained?.
+- [mkroot](https://github.com/landley/mkroot).
+- [NARD](http://www.arbetsmyra.dyndns.org/nard/) - Specific to Raspberry Pi (compute modules).
+- [OpenADK](https://www.openadk.org/).
+- [OpenBricks](https://github.com/OpenBricks/openbricks).
+- [OpenEmbedded](http://www.openembedded.org) - Build system used in the [Yocto Project](https://www.yoctoproject.org/).
+- [OpenWrt](https://openwrt.org/).
+- [PTXdist](https://www.ptxdist.org).
 
 ## Distributions
 
