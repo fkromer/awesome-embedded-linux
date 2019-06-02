@@ -27,6 +27,8 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Distributions
 
+- [Android](https://www.android.com/versions/pie-9-0/).
+- [Android (Go edition)](https://www.android.com/versions/go-edition/).
 - [Ångström](http://www.angstrom-distribution.org/).
 - [Arch Linux ARM](https://archlinuxarm.org/).
 - [Embedded Gentoo](https://wiki.gentoo.org/wiki/Project:Embedded).
@@ -37,3 +39,4 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Embdebian (Embedded Debian](http://www.emdebian.org/) - DISCONTINUED.
 - [Ubuntu Core](https://www.ubuntu.com/core).
 - [ELinOS](https://www.sysgo.com/products/elinos-embedded-linux).
+- [Sailfish OS](https://sailfishos.org/).
