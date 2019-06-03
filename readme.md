@@ -1,4 +1,4 @@
-# awesome-embedded-linux
+# Awesome Embedded Linux [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome Embedded Linux resources.
 
@@ -91,11 +91,11 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 ## Kernel modules
 
 - [AppArmor](https://www.kernel.org/doc/html/v4.15/admin-guide/LSM/apparmor.html) - Linux Security Module that provides MAC style security extension for the Linux kernel.
-- [LoadPin](https://www.kernel.org/doc/html/v4.15/admin-guide/LSM/LoadPin.html) - Linux Security Module that ensures all kernel-loaded files (modules, firmware, etc) all originate from the same filesystem, with the expectation that such a filesystem is backed by a read-only device
-- [SELinux](https://www.kernel.org/doc/html/v4.15/admin-guide/LSM/SELinux.html) - Linux Security Module
+- [LoadPin](https://www.kernel.org/doc/html/v4.15/admin-guide/LSM/LoadPin.html) - Linux Security Module that ensures all kernel-loaded files (modules, firmware, etc) all originate from the same filesystem, with the expectation that such a filesystem is backed by a read-only device.
+- [SELinux](https://www.kernel.org/doc/html/v4.15/admin-guide/LSM/SELinux.html) - Linux Security Module.
 - [SMACK](https://www.kernel.org/doc/html/v4.15/admin-guide/LSM/Smack.html) - Linux Security Module providing mandatory access control that includes simplicity in its primary design goals.
- - [TOMOYO](https://www.kernel.org/doc/html/v4.15/admin-guide/LSM/tomoyo.html) - Linux Security Module adding name-based MAC to the Linux kernel.
- - [Yama](https://www.kernel.org/doc/html/v4.15/admin-guide/LSM/Yama.html) - inux Security Module that collects system-wide DAC security protections that are not handled by the core kernel itself.
+- [TOMOYO](https://www.kernel.org/doc/html/v4.15/admin-guide/LSM/tomoyo.html) - Linux Security Module adding name-based MAC to the Linux kernel.
+- [Yama](https://www.kernel.org/doc/html/v4.15/admin-guide/LSM/Yama.html) - Linux Security Module that collects system-wide DAC security protections that are not handled by the core kernel itself.
 
 ## OTA software updates
 
@@ -111,3 +111,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [RZ/G Linux Platform](https://www.renesas.com/eu/en/products/rzg-linux-platform.html)
 - [Linux microPlatform](https://foundries.io/products/#linux) - A minimal Linux distribution built using OpenEmbedded/Yocto providing OTA software updates and a container-based application runtime.
 - [Torizon](https://labs.toradex.com/projects/torizon) - Linux-based software platform providing a preconfigured Yocto-based Linux distribution, bootloader, OTA service and Docker container runtime.
+
+## License
+
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
