@@ -102,4 +102,10 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Platforms
 
+- [Balena](https://www.balena.io/)
+  - [BalenaOS](https://www.balena.io/os/) - Operating System tailored for containers, designed for reliability, proven in production.
+  - [OpenBalena](https://www.balena.io/open/) - Platform to deploy and manage connected devices.
+  - [BalenaCloud](https://www.balena.io/cloud/) - Container-based platform for deploying IoT applications.
+- [RZ/G Linux Platform](https://www.renesas.com/eu/en/products/rzg-linux-platform.html)
+- [Linux microPlatform](https://foundries.io/products/#linux) - A minimal Linux distribution built using OpenEmbedded/Yocto providing OTA software updates and a container-based application runtime.
 - [Torizon](https://labs.toradex.com/projects/torizon) - Linux-based software platform providing a preconfigured Yocto-based Linux distribution, bootloader, OTA service and Docker container runtime.
