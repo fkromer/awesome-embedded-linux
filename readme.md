@@ -12,6 +12,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Build systems](#build-systems)
 - [Distributions](#distributions)
 - [Hypervisors](#hypervisors)
+- [Init systems](#init-systems)
 - [Kernel patches](#kernel-patches)
 - [Kernel modules](#kernel-modules)
 - [OTA software updates](#ota-software-updates)
@@ -86,6 +87,15 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Crudible](https://starlab.io/crucible-product/) - Hypervisor for defense systems.
 - [Jailhouse](https://github.com/siemens/jailhouse) - Linux-based partitioning hypervisor.
 - [L4Re Runtime Environment](https://l4re.org/) - Operating system framework built on top of the Fiasco microkernel and providing user-level infrastructure that includes services (program loading, memory management, virtual machine management, etc.).
+
+## Init systems
+
+- [finit](http://troglobit.com/projects/finit/) - Fast init for Linux systems.
+- [minit](http://www.fefe.de/minit/) - A small yet feature-complete init.
+- [OpenRC](https://github.com/OpenRC/openrc) - Dependency-based init system that works with the system-provided init program.
+- [runit](http://smarden.org/runit/) - A UNIX init scheme with service supervision.
+- [systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager.
+- [upstart](http://upstart.ubuntu.com/) - Event-based init system.
 
 ## Kernel patches
 
