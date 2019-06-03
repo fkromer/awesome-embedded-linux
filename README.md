@@ -21,6 +21,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Building Embedded Linux Systems](https://elinux.org/Building_Embedded_Linux_Systems) - [Book website](https://www.oreilly.com/library/view/building-embedded-linux/9780596529680/).
 - [Embedded Linux Primer](https://elinux.org/Embedded_Linux_Primer) - [Book website](http://www.embeddedlinuxprimer.com/).
 - [Embedded Linux System Design and Development](https://elinux.org/Embedded_Linux_System_Design_and_Development) - [Book website](https://www.crcpress.com/Embedded-Linux-System-Design-and-Development/Raghavan-Lad-Neelakandan/p/book/9780849340581).
+- [Linux for Embedded and Real-time Applications](https://www.elsevier.com/books/linux-for-embedded-and-real-time-applications/abbott/978-0-12-811277-9).
 
 ### System programming
 
