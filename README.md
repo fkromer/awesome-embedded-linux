@@ -57,19 +57,20 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Distributions
 
+- [Aboriginal Linux](http://landley.net/aboriginal/) - DISCONTINUED.
 - [Android](https://www.android.com/versions/pie-9-0/).
 - [Android (Go edition)](https://www.android.com/versions/go-edition/).
 - [Ångström](http://www.angstrom-distribution.org/).
 - [Arch Linux ARM](https://archlinuxarm.org/).
+- [ELinOS](https://www.sysgo.com/products/elinos-embedded-linux).
+- [Embdebian](http://www.emdebian.org/) - Embedded Debian, DISCONTINUED.
 - [Embedded Gentoo](https://wiki.gentoo.org/wiki/Project:Embedded).
+- [Moxa Industrial Linux](https://www.moxa.com/en/spotlight/industrial-computing/arm-linux-iiot-edge-gateway-portal/linux)
+- [Sailfish OS](https://sailfishos.org/).
 - [SnapGear Embedded Linux](http://www.snapgear.org/).
 - [STLinux](https://www.st.com/en/development-tools/stlinux.html) - Linux for STMicroelectronics ARM or ST40 embedded processors.
-- [Wind River Linux](https://www.windriver.com/products/linux/).
-- [Aboriginal Linux](http://landley.net/aboriginal/) - DISCONTINUED.
-- [Embdebian (Embedded Debian](http://www.emdebian.org/) - DISCONTINUED.
 - [Ubuntu Core](https://www.ubuntu.com/core).
-- [ELinOS](https://www.sysgo.com/products/elinos-embedded-linux).
-- [Sailfish OS](https://sailfishos.org/).
+- [Wind River Linux](https://www.windriver.com/products/linux/).
 
 ## Hypervisors
 
