@@ -73,6 +73,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Embedded Gentoo](https://wiki.gentoo.org/wiki/Project:Embedded).
 - [LinRT](https://www.linrt.com/wiki/linrt-bsp-wiki/) - Embedded Linux distribution that uses the FSL Community Yocto Project layers with LinRT proprietary layers for Phytec’s SOMs and Single Board Computers.
 - [Moxa Industrial Linux](https://www.moxa.com/en/spotlight/industrial-computing/arm-linux-iiot-edge-gateway-portal/linux)
+- [OpenSTLinux](https://www.st.com/en/embedded-software/stm32-mpu-openstlinux-distribution.html) - Yocto Project based Linux Distribution for STM32 multi-core microprocessors (MPU).
 - [Sailfish OS](https://sailfishos.org/).
 - [SnapGear Embedded Linux](http://www.snapgear.org/).
 - [STLinux](https://www.st.com/en/development-tools/stlinux.html) - Linux for STMicroelectronics ARM or ST40 embedded processors.
