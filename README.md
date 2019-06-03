@@ -79,6 +79,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Cross-OS](https://www.mapusoft.com/cross-os-hypervisor/) - Hypervisor used in the military domain.
 - [Crudible](https://starlab.io/crucible-product/) - Hypervisor for defense systems.
 - [Jailhouse](https://github.com/siemens/jailhouse) - Linux-based partitioning hypervisor.
+- [L4Re Runtime Environment](https://l4re.org/) - Operating system framework built on top of the Fiasco microkernel and providing user-level infrastructure that includes services (program loading, memory management, virtual machine management, etc.).
 
 ## Kernel patches
 
