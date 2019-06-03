@@ -6,11 +6,38 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Contents
 
+- [Books](#books)
 - [Build systems](#build-systems)
 - [Distributions](#distributions)
 - [Hypervisors](#hypervisors)
 - [Kernel patches](#kernel-patches)
 - [Kernel modules](#kernel-modules)
+- [Platforms](#platforms)
+
+## Books
+
+### System design
+
+- [Building Embedded Linux Systems](https://elinux.org/Building_Embedded_Linux_Systems) - [Book website](https://www.oreilly.com/library/view/building-embedded-linux/9780596529680/).
+- [Embedded Linux Primer](https://elinux.org/Embedded_Linux_Primer) - [Book website](http://www.embeddedlinuxprimer.com/).
+- [Embedded Linux System Design and Development](https://elinux.org/Embedded_Linux_System_Design_and_Development) - [Book website](https://www.crcpress.com/Embedded-Linux-System-Design-and-Development/Raghavan-Lad-Neelakandan/p/book/9780849340581).
+
+### System programming
+
+- [Advanced Programming in the UNIX Environment](http://www.apuebook.com)
+- [The Linux Programming Interface](https://elinux.org/The_Linux_Programming_Interface_-_by_Michael_Kerrisk) - [Book website](https://nostarch.com/tlpi), [free only version](http://man7.org/tlpi/).
+- [Linux System Programming]() - [Book website](https://www.oreilly.com/library/view/linux-system-programming/9781449341527/).
+- [Linux Debugging and Performance Tuning: Tips and Tricks](https://elinux.org/Linux_Debugging_and_Performance_Tuning).
+
+### Kernel development
+
+- [Mastering Linux Kernel Development: A kernel developer's reference manual](https://www.packtpub.com/application-development/mastering-linux-kernel-development)
+
+### Device driver development
+
+- [Essential Linux Device Drivers](https://elinux.org/Essential_Linux_Device_Drivers) - [book website](https://www.elinuxdd.com/).
+- [Linux Device Drivers](https://elinux.org/Linux_Device_Drivers) - [book website](http://shop.oreilly.com/product/9780596005900.do), [free only version](https://lwn.net/Kernel/LDD3/).
+- [Linux Device Drivers Development: Develop customized drivers for embedded Linux](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development).
 
 ## Build systems
 
@@ -62,3 +89,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [SMACK](https://www.kernel.org/doc/html/v4.15/admin-guide/LSM/Smack.html) - Linux Security Module providing mandatory access control that includes simplicity in its primary design goals.
  - [TOMOYO](https://www.kernel.org/doc/html/v4.15/admin-guide/LSM/tomoyo.html) - Linux Security Module adding name-based MAC to the Linux kernel.
  - [Yama](https://www.kernel.org/doc/html/v4.15/admin-guide/LSM/Yama.html) - inux Security Module that collects system-wide DAC security protections that are not handled by the core kernel itself.
+
+## Platforms
+
+- [Torizon](https://labs.toradex.com/projects/torizon) - Linux-based software platform providing a preconfigured Yocto-based Linux distribution, bootloader, OTA service and Docker container runtime.
