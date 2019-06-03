@@ -1,5 +1,7 @@
 # Awesome Embedded Linux [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
+<div align="center"><img width="500" src="embedded_tux.png" alt="Awesome Embedded Linux"></div>
+
 > A curated list of awesome Embedded Linux resources.
 
 Embedded Linux: Operating systems based on the Linux kernel used in embedded systems such as consumer electronics, in-vehicle infotainment, networking equipment, machine control, industrial automation, navigation equipment, mobile devices, medical instruments, etc.
