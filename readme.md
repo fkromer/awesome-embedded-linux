@@ -1,4 +1,4 @@
-# Awesome Embedded Linux [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Embedded Linux [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
 > A curated list of awesome Embedded Linux resources.
 
@@ -54,7 +54,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [NARD](http://www.arbetsmyra.dyndns.org/nard/) - Specific to Raspberry Pi (compute modules).
 - [OpenADK](https://www.openadk.org/).
 - [OpenBricks](https://github.com/OpenBricks/openbricks).
-- [OpenEmbedded](http://www.openembedded.org) - Build system used in the [Yocto Project](https://www.yoctoproject.org/).
+- [OpenEmbedded](http://www.openembedded.org/wiki/Main_Page) - Build system used in the [Yocto Project](https://www.yoctoproject.org/).
 - [OpenWrt](https://openwrt.org/).
 - [PTXdist](https://www.ptxdist.org).
 
