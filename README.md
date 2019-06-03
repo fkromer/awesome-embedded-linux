@@ -12,6 +12,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Hypervisors](#hypervisors)
 - [Kernel patches](#kernel-patches)
 - [Kernel modules](#kernel-modules)
+- [OTA software updates](#ota-software-updates)
 - [Platforms](#platforms)
 
 ## Books
@@ -93,6 +94,11 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [SMACK](https://www.kernel.org/doc/html/v4.15/admin-guide/LSM/Smack.html) - Linux Security Module providing mandatory access control that includes simplicity in its primary design goals.
  - [TOMOYO](https://www.kernel.org/doc/html/v4.15/admin-guide/LSM/tomoyo.html) - Linux Security Module adding name-based MAC to the Linux kernel.
  - [Yama](https://www.kernel.org/doc/html/v4.15/admin-guide/LSM/Yama.html) - inux Security Module that collects system-wide DAC security protections that are not handled by the core kernel itself.
+
+## OTA software updates
+
+- [HERE OTA Connect](https://www.here.com/products/automotive/ota-technology) - Over-the-air software updates for the automotive industry.
+- [Mender](https://mender.io/) - Open source client-server update manager.
 
 ## Platforms
 
