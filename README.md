@@ -65,6 +65,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Android (Go edition)](https://www.android.com/versions/go-edition/).
 - [Ångström](http://www.angstrom-distribution.org/).
 - [Arch Linux ARM](https://archlinuxarm.org/).
+- [Clear Linux OS](https://clearlinux.org/) - Open source, rolling release Linux distribution optimized for performance and security, from the Cloud to the Edge, designed for customization, and manageability.
 - [ELinOS](https://www.sysgo.com/products/elinos-embedded-linux).
 - [Embdebian](http://www.emdebian.org/) - Embedded Debian, DISCONTINUED.
 - [Embedded Gentoo](https://wiki.gentoo.org/wiki/Project:Embedded).
