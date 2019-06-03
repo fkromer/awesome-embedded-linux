@@ -29,7 +29,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 - [Advanced Programming in the UNIX Environment](http://www.apuebook.com)
 - [The Linux Programming Interface](https://elinux.org/The_Linux_Programming_Interface_-_by_Michael_Kerrisk) - [Book website](https://nostarch.com/tlpi), [free only version](http://man7.org/tlpi/).
-- [Linux System Programming]() - [Book website](https://www.oreilly.com/library/view/linux-system-programming/9781449341527/).
+- [Linux System Programming](https://www.oreilly.com/library/view/linux-system-programming/9781449341527/).
 - [Linux Debugging and Performance Tuning: Tips and Tricks](https://elinux.org/Linux_Debugging_and_Performance_Tuning).
 
 ### Kernel development
