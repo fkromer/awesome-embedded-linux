@@ -8,7 +8,6 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Contents
 
-- [Books](#books)
 - [Build systems](#build-systems)
 - [Distributions](#distributions)
 - [Hypervisors](#hypervisors)
@@ -19,33 +18,8 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Platforms](#platforms)
 - [Process control systems](#process-control-systems)
 - [Web servers](#web-servers)
-
-## Books
-
-### System design
-
-- [Building Embedded Linux Systems](https://elinux.org/Building_Embedded_Linux_Systems) - [Book website](https://www.oreilly.com/library/view/building-embedded-linux/9780596529680/).
-- [Embedded Linux Primer](https://elinux.org/Embedded_Linux_Primer) - [Book website](http://www.embeddedlinuxprimer.com/).
-- [Embedded Linux System Design and Development](https://elinux.org/Embedded_Linux_System_Design_and_Development) - [Book website](https://www.crcpress.com/Embedded-Linux-System-Design-and-Development/Raghavan-Lad-Neelakandan/p/book/9780849340581).
-- [Linux for Embedded and Real-time Applications](https://www.elsevier.com/books/linux-for-embedded-and-real-time-applications/abbott/978-0-12-811277-9).
-- [Pro Linux Embedded Systems](https://www.springer.com/de/book/9781430272274).
-
-### System programming
-
-- [Advanced Programming in the UNIX Environment](http://www.apuebook.com)
-- [The Linux Programming Interface](https://elinux.org/The_Linux_Programming_Interface_-_by_Michael_Kerrisk) - [Book website](https://nostarch.com/tlpi), [free only version](http://man7.org/tlpi/).
-- [Linux System Programming](https://www.oreilly.com/library/view/linux-system-programming/9781449341527/).
-- [Linux Debugging and Performance Tuning: Tips and Tricks](https://elinux.org/Linux_Debugging_and_Performance_Tuning).
-
-### Kernel development
-
-- [Mastering Linux Kernel Development: A kernel developer's reference manual](https://www.packtpub.com/application-development/mastering-linux-kernel-development)
-
-### Device driver development
-
-- [Essential Linux Device Drivers](https://elinux.org/Essential_Linux_Device_Drivers) - [book website](https://www.elinuxdd.com/).
-- [Linux Device Drivers](https://elinux.org/Linux_Device_Drivers) - [book website](http://shop.oreilly.com/product/9780596005900.do), [free only version](https://lwn.net/Kernel/LDD3/).
-- [Linux Device Drivers Development: Develop customized drivers for embedded Linux](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development).
+- [Books](#books)
+- [Presentations](#presentations)
 
 ## Build systems
 
@@ -146,6 +120,60 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [nginx](http://nginx.org/) - Web server and reverse proxy server with a strong focus on high concurrency, performance and low memory usage.
 - [nostromo](http://www.nazgul.ch/dev_nostromo.html) - nhttpd is a simple, fast and secure HTTP server.
 - [sthttpd](https://github.com/blueness/sthttpd) - A simple, small, portable, fast, and secure HTTP server.
+
+## Books
+
+### System design
+
+- [Building Embedded Linux Systems](https://elinux.org/Building_Embedded_Linux_Systems) - [Book website](https://www.oreilly.com/library/view/building-embedded-linux/9780596529680/).
+- [Embedded Linux Primer](https://elinux.org/Embedded_Linux_Primer) - [Book website](http://www.embeddedlinuxprimer.com/).
+- [Embedded Linux System Design and Development](https://elinux.org/Embedded_Linux_System_Design_and_Development) - [Book website](https://www.crcpress.com/Embedded-Linux-System-Design-and-Development/Raghavan-Lad-Neelakandan/p/book/9780849340581).
+- [Linux for Embedded and Real-time Applications](https://www.elsevier.com/books/linux-for-embedded-and-real-time-applications/abbott/978-0-12-811277-9).
+- [Pro Linux Embedded Systems](https://www.springer.com/de/book/9781430272274).
+
+### System programming
+
+- [Advanced Programming in the UNIX Environment](http://www.apuebook.com)
+- [The Linux Programming Interface](https://elinux.org/The_Linux_Programming_Interface_-_by_Michael_Kerrisk) - [Book website](https://nostarch.com/tlpi), [free only version](http://man7.org/tlpi/).
+- [Linux System Programming](https://www.oreilly.com/library/view/linux-system-programming/9781449341527/).
+- [Linux Debugging and Performance Tuning: Tips and Tricks](https://elinux.org/Linux_Debugging_and_Performance_Tuning).
+
+### Kernel development
+
+- [Mastering Linux Kernel Development: A kernel developer's reference manual](https://www.packtpub.com/application-development/mastering-linux-kernel-development)
+
+### Device driver development
+
+- [Essential Linux Device Drivers](https://elinux.org/Essential_Linux_Device_Drivers) - [book website](https://www.elinuxdd.com/).
+- [Linux Device Drivers](https://elinux.org/Linux_Device_Drivers) - [book website](http://shop.oreilly.com/product/9780596005900.do), [free only version](https://lwn.net/Kernel/LDD3/).
+- [Linux Device Drivers Development: Develop customized drivers for embedded Linux](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development).
+
+## Presentations
+
+- Embedded Linux Conference + OpenIoT Summit Europe 2018 [slides](https://events.linuxfoundation.org/events/elc-openiot-europe-2018/program/slides/) / [video playlist](https://www.youtube.com/playlist?list=PLbzoR-pLrL6qThA7SAbhVfuMbjZsJX1CY)
+- Embedded Linux Conference + OpenIoT Summit North America 2018 [video playlist](https://www.youtube.com/watch?v=wirx1SwMlbA&list=PLbzoR-pLrL6qAnHzPdrTxwCUWPja5KnOq)
+- Embedded Linux Conference + OpenIoT Summit Europe 2017 [video playlist](https://www.youtube.com/playlist?list=PLbzoR-pLrL6pISWAq-1cXP4_UZAyRtesk)
+- Embedded Linux Conference + OpenIoT Summit North America 2017 [video playlist](https://www.youtube.com/playlist?list=PLbzoR-pLrL6pSlkQDW7RpnNLuxPq6WVUR)
+- Embedded Linux Conference + OpenIoT Summit Europe 2016 [video playlist](https://www.youtube.com/playlist?list=PLbzoR-pLrL6pRFP6SOywVJWdEHlmQE51q)
+- Embedded Linux Conference Europe 2015 [video playlist](https://www.youtube.com/playlist?list=PLGeM09tlguZTP9-9nMQNGiT_2PPFay0Cs)
+- Embedded Linux Conference North America 2015 [video playlist](https://www.youtube.com/playlist?list=PLGeM09tlguZTPUxEvsQiDgX0XDjfOL6oR)
+- Embedded Linux Conference Europe 2014 [slides](https://elinux.org/ELC_Europe_2014_Presentations)
+- Embedded Linux Conference North America 2014 video playlist [slides](https://elinux.org/ELC_2014_Presentations) / [video playlist](https://www.youtube.com/playlist?list=PL_xRWvMmKDbLAOMqMDovw-4F9fEYmf15s)
+- Embedded Linux Conference Europe 2013 [slides](https://elinux.org/ELC_Europe_2013_Presentations) / [video playlist](https://www.youtube.com/playlist?list=PLbzoR-pLrL6oxnDyb7IvnNOOBur7z_8tE)
+- Embedded Linux Conference North America 2013 [video playlist](https://www.youtube.com/playlist?list=PLbzoR-pLrL6reuY8eZ9S1PRofvdp9O16w)
+- Embedded Linux Conference Europe 2012 [slides](https://elinux.org/ELC_Europe_2012_Presentations)
+- Embedded Linux Conference North America 2012 [slides](https://elinux.org/ELC_2012_Presentations)
+- Embedded Linux Conference Europe 2011 [slides](https://elinux.org/ELC_Europe_2011_Presentations)
+- Embedded Linux Conference North America 2011 [slides](https://elinux.org/ELC_2011_Presentations)
+- Embedded Linux Conference Europe 2010 [slides](https://elinux.org/ELC_Europe_2010_Presentations)
+- Embedded Linux Conference North America 2010 [slides](https://elinux.org/ELC_2010_Presentations)
+- Embedded Linux Conference Europe 2009 [slides](https://elinux.org/ELC_Europe_2009_Presentations)
+- Embedded Linux Conference North America 2009 [slides](https://elinux.org/ELC_2009_Presentations)
+- Embedded Linux Conference Europe 2008 [slides](https://elinux.org/ELC_Europe_2008_Presentations)
+- Embedded Linux Conference North America 2008 [slides](https://elinux.org/ELC_2008_Presentations)
+- Embedded Linux Conference Europe 2007 [slides](https://elinux.org/ELC_Europe_2007_Presentations)
+- Embedded Linux Conference North America 2007 [slides](https://elinux.org/ELC_2007_Presentations)
+- Embedded Linux Conference 2006 [slides](https://elinux.org/ELC_2006_Presentations)
 
 ## License
 
