@@ -18,6 +18,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [OTA software updates](#ota-software-updates)
 - [Platforms](#platforms)
 - [Process control systems](#process-control-systems)
+- [Web servers](#web-servers)
 
 ## Books
 
@@ -133,6 +134,18 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [s6](https://skarnet.org/software/s6/) - Suite of programs to allow process supervision (a.k.a service supervision).
 - [Supervisor](http://supervisord.org/) - A client/server system that allows its users to monitor and control a number of processes.
 - [watchdogd](https://github.com/troglobit/watchdogd) - Advanced System & Process Supervisor for (embedded) Linux.
+
+## Web servers
+
+- [Apache](http://httpd.apache.org/) - httpd.
+- [Barracuda](https://realtimelogic.com/products/barracuda-web-server/) - Optimized for deeply embedded devices in remote-monitoring and control-management applications.
+- [Cherokee](http://cherokee-project.com/) - .
+- [Hiawatha](https://www.hiawatha-webserver.org/) - An advanced and secure webserver for Unix.
+- [lighttpd](https://www.lighttpd.net/) - Designed and optimized for high performance environments and for every server that is suffering load problems.
+- [Monkey](http://monkey-project.com/) - Monkey is a lightweight and scalable Web Server with a strong focus on Embedded devices.
+- [nginx](http://nginx.org/) - Web server and reverse proxy server with a strong focus on high concurrency, performance and low memory usage.
+- [nostromo](http://www.nazgul.ch/dev_nostromo.html) - nhttpd is a simple, fast and secure HTTP server.
+- [sthttpd](https://github.com/blueness/sthttpd) - A simple, small, portable, fast, and secure HTTP server.
 
 ## License
 
