@@ -17,6 +17,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Kernel modules](#kernel-modules)
 - [OTA software updates](#ota-software-updates)
 - [Platforms](#platforms)
+- [Process control systems](#process-control-systems)
 
 ## Books
 
@@ -124,6 +125,14 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [RZ/G Linux Platform](https://www.renesas.com/eu/en/products/rzg-linux-platform.html)
 - [Linux microPlatform](https://foundries.io/products/#linux) - A minimal Linux distribution built using OpenEmbedded/Yocto providing OTA software updates and a container-based application runtime.
 - [Torizon](https://labs.toradex.com/projects/torizon) - Linux-based software platform providing a preconfigured Yocto-based Linux distribution, bootloader, OTA service and Docker container runtime.
+
+## Process control systems
+
+- [daemontools](http://cr.yp.to/daemontools.html) - Collection of tools for managing services.
+- [M/Monit](https://mmonit.com/) - Can monitor and manage distributed computer systems (including their processes), conduct automatic maintenance and repair and execute meaningful causal actions in error situations.
+- [s6](https://skarnet.org/software/s6/) - Suite of programs to allow process supervision (a.k.a service supervision).
+- [Supervisor](http://supervisord.org/) - A client/server system that allows its users to monitor and control a number of processes.
+- [watchdogd](https://github.com/troglobit/watchdogd) - Advanced System & Process Supervisor for (embedded) Linux.
 
 ## License
 
