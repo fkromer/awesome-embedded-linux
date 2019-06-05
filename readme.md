@@ -18,6 +18,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Platforms](#platforms)
 - [Process control systems](#process-control-systems)
 - [Web servers](#web-servers)
+- [Zero configuration networking](#zero-configuration-networking)
 - [Books](#books)
 - [Presentations](#presentations)
 
@@ -120,6 +121,11 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [nginx](http://nginx.org/) - Web server and reverse proxy server with a strong focus on high concurrency, performance and low memory usage.
 - [nostromo](http://www.nazgul.ch/dev_nostromo.html) - nhttpd is a simple, fast and secure HTTP server.
 - [sthttpd](https://github.com/blueness/sthttpd) - A simple, small, portable, fast, and secure HTTP server.
+
+## Zero configuration networking
+
+- [Avahi](http://avahi.org/) - Service Discovery for Linux using mDNS/DNS-SD.
+- [JmDNS](http://jmdns.sourceforge.net/) - Java implementation of multi-cast DNS and can be used for service registration and discovery in local area networks.
 
 ## Books
 
