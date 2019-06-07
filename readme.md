@@ -10,6 +10,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 - [Build systems](#build-systems)
 - [Distributions](#distributions)
+- [Host-based Intrusion Detection Systems](#host-based-intrusion-detection-systems)
 - [Hypervisors](#hypervisors)
 - [Init systems](#init-systems)
 - [Kernel patches](#kernel-patches)
@@ -58,6 +59,16 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [STLinux](https://www.st.com/en/development-tools/stlinux.html) - Linux for STMicroelectronics ARM or ST40 embedded processors.
 - [Ubuntu Core](https://www.ubuntu.com/core).
 - [Wind River Linux](https://www.windriver.com/products/linux/).
+
+## Host-based Intrusion Detection Systems
+
+- [AIDE](https://aide.github.io/) - Advanced Intrusion Detection Environment, a file and directory integrity checker.
+- [afick](http://afick.sourceforge.net/) - Another File Integrity Checker, monitors changes on the file system and detects intrusions.
+- [chrootkit](http://www.chkrootkit.org/) - Checks for rootkits.
+- [Open Source Tripwire](https://github.com/Tripwire/tripwire-open-source) - Security and data integrity tool for monitoring and alerting on file & directory changes.
+- [OSSEC](https://www.ossec.net/) - The World’s Most Widely Used Host-based Intrusion Detection System.
+- [rkhunter](http://rkhunter.sourceforge.net/) - A rootkit hunter.
+- [SAMHAIN](https://la-samhna.de/samhain/) - Provides file integrity checking and log file monitoring/analysis, as well as rootkit detection, port monitoring, detection of rogue SUID executables, and hidden processes. 
 
 ## Hypervisors
 
