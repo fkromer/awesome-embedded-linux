@@ -8,6 +8,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Contents
 
+- [Bootloaders](#bootloaders)
 - [Build systems](#build-systems)
 - [Distributions](#distributions)
 - [Host-based Intrusion Detection Systems](#host-based-intrusion-detection-systems)
@@ -23,6 +24,14 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Zero configuration networking](#zero-configuration-networking)
 - [Books](#books)
 - [Presentations](#presentations)
+
+## Bootloaders
+
+- [barebox](https://www.barebox.org/) - A bootloader (initially named U-Boot v2) designed for embedded systems.
+- [coreboot](https://www.coreboot.org/) - Extended firmware platform that delivers a lightning fast and secure boot experience on modern computers and embedded systems.
+- [libreboot](https://libreboot.org/) - coreboot distribution with proprietary software removed.
+- [RedBoot](http://ecos.sourceware.org/redboot/) - Complete bootstrap environment for embedded systems.
+- [U-Boot](https://www.denx.de/wiki/U-Boot) - The Universal Bootloader.
 
 ## Build systems
 
