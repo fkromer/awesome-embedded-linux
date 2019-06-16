@@ -75,6 +75,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 - [BalenaOS (formerly ResinOS)](https://www.balena.io/os/) - Operating System tailored for containers, designed for reliability, proven in production. Meant to be used with [OpenBalena](https://www.balena.io/open/) to deploy and manage connected devices and with [BalenaCloud](https://www.balena.io/cloud/) for deploying IoT applications.
 - [CoreOS Container Linux](https://coreos.com/os/docs/latest/) - A container-focused OS that's designed for painless management in large clusters.
+- [Fedora CoreOS](https://coreos.fedoraproject.org/) - Combines the best of CoreOS Container Linux and Fedora Atomic Host: Automatically updating, minimal, monolithic, container-focused operating system, designed for clusters but also operable standalone, optimized for Kubernetes but also great without it.
 - [k3OS](https://k3os.io/) - k3OS is purpose-built to simplify Kubernetes operations in low-resource computing environments.
 - [Linux microPlatform](https://foundries.io/products/#linux) - A minimal Linux distribution built using OpenEmbedded/Yocto providing OTA software updates and a container-based application runtime.
 - [OSv](http://osv.io/) - OSv is the versatile modular unikernel designed to run unmodified Linux applications securely on micro-VMs in the cloud or on on-premise bare metal servers.
