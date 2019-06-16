@@ -73,10 +73,13 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ### Container Runtime Distributions
 
+- [BalenaOS (formerly ResinOS)](https://www.balena.io/os/) - Operating System tailored for containers, designed for reliability, proven in production. Meant to be used with [OpenBalena](https://www.balena.io/open/) to deploy and manage connected devices and with [BalenaCloud](https://www.balena.io/cloud/) for deploying IoT applications.
 - [CoreOS Container Linux](https://coreos.com/os/docs/latest/) - A container-focused OS that's designed for painless management in large clusters.
 - [k3OS](https://k3os.io/) - k3OS is purpose-built to simplify Kubernetes operations in low-resource computing environments.
+- [Linux microPlatform](https://foundries.io/products/#linux) - A minimal Linux distribution built using OpenEmbedded/Yocto providing OTA software updates and a container-based application runtime.
 - [OSv](http://osv.io/) - OSv is the versatile modular unikernel designed to run unmodified Linux applications securely on micro-VMs in the cloud or on on-premise bare metal servers.
 - [RancherOS](https://rancher.com/rancher-os) - A lightweight, secure Linux distribution, built from containers to run containers well.
+- [Torizon](https://labs.toradex.com/projects/torizon) - Linux-based software platform providing a preconfigured Yocto-based Linux distribution, bootloader, OTA service and Docker container runtime.
 
 ## Host-based Intrusion Detection Systems
 
@@ -125,13 +128,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Platforms
 
-- [Balena](https://www.balena.io/)
-  - [BalenaOS](https://www.balena.io/os/) - Operating System tailored for containers, designed for reliability, proven in production.
-  - [OpenBalena](https://www.balena.io/open/) - Platform to deploy and manage connected devices.
-  - [BalenaCloud](https://www.balena.io/cloud/) - Container-based platform for deploying IoT applications.
 - [RZ/G Linux Platform](https://www.renesas.com/eu/en/products/rzg-linux-platform.html)
-- [Linux microPlatform](https://foundries.io/products/#linux) - A minimal Linux distribution built using OpenEmbedded/Yocto providing OTA software updates and a container-based application runtime.
-- [Torizon](https://labs.toradex.com/projects/torizon) - Linux-based software platform providing a preconfigured Yocto-based Linux distribution, bootloader, OTA service and Docker container runtime.
 
 ## Process control systems
 
