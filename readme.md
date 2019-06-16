@@ -51,6 +51,8 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Distributions
 
+### Traditional Distributions
+
 - [Aboriginal Linux](http://landley.net/aboriginal/) - DISCONTINUED.
 - [Android](https://www.android.com/versions/pie-9-0/).
 - [Android (Go edition)](https://www.android.com/versions/go-edition/).
@@ -68,6 +70,13 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [STLinux](https://www.st.com/en/development-tools/stlinux.html) - Linux for STMicroelectronics ARM or ST40 embedded processors.
 - [Ubuntu Core](https://www.ubuntu.com/core).
 - [Wind River Linux](https://www.windriver.com/products/linux/).
+
+### Container Runtime Distributions
+
+- [CoreOS Container Linux](https://coreos.com/os/docs/latest/) - A container-focused OS that's designed for painless management in large clusters.
+- [k3OS](https://k3os.io/) - k3OS is purpose-built to simplify Kubernetes operations in low-resource computing environments.
+- [OSv](http://osv.io/) - OSv is the versatile modular unikernel designed to run unmodified Linux applications securely on micro-VMs in the cloud or on on-premise bare metal servers.
+- [RancherOS](https://rancher.com/rancher-os) - A lightweight, secure Linux distribution, built from containers to run containers well.
 
 ## Host-based Intrusion Detection Systems
 
