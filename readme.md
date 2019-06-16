@@ -78,6 +78,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [k3OS](https://k3os.io/) - k3OS is purpose-built to simplify Kubernetes operations in low-resource computing environments.
 - [Linux microPlatform](https://foundries.io/products/#linux) - A minimal Linux distribution built using OpenEmbedded/Yocto providing OTA software updates and a container-based application runtime.
 - [OSv](http://osv.io/) - OSv is the versatile modular unikernel designed to run unmodified Linux applications securely on micro-VMs in the cloud or on on-premise bare metal servers.
+- [Photon OS](https://vmware.github.io/photon/) - Open source, minimal Linux container host that is optimized for cloud-native applications, cloud platforms and VMware infrastructure but runs on ARM as well.
 - [RancherOS](https://rancher.com/rancher-os) - A lightweight, secure Linux distribution, built from containers to run containers well.
 - [Torizon](https://labs.toradex.com/projects/torizon) - Linux-based software platform providing a preconfigured Yocto-based Linux distribution, bootloader, OTA service and Docker container runtime.
 
