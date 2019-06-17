@@ -10,6 +10,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 - [Bootloaders](#bootloaders)
 - [Build systems](#build-systems)
+- [Container runtimes](#container-runtimes)
 - [Distributions](#distributions)
 - [Host-based Intrusion Detection Systems](#host-based-intrusion-detection-systems)
 - [Hypervisors](#hypervisors)
@@ -48,6 +49,14 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [OpenEmbedded](http://www.openembedded.org/wiki/Main_Page) - Build system used in the [Yocto Project](https://www.yoctoproject.org/).
 - [OpenWrt](https://openwrt.org/).
 - [PTXdist](https://www.ptxdist.org).
+
+## Container runtimes
+
+- [containerd](https://containerd.io/) - An industry-standard container runtime with an emphasis on simplicity, robustness and portability.
+- [cri-o](https://cri-o.io/) - Lightweight Container Runtime for Kubernetes.
+- [Docker Engine](https://www.docker.com/products/container-runtime) - The Industry-Leading Container Runtime.
+- [frakti](https://github.com/kubernetes/frakti) - The hypervisor-based container runtime for Kubernetes.
+- [runC](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification.
 
 ## Distributions
 
