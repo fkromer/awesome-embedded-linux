@@ -11,6 +11,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Bootloaders](#bootloaders)
 - [Build systems](#build-systems)
 - [Container runtimes](#container-runtimes)
+- [Container orchestration systems](#container-orchestration-systems)
 - [Distributions](#distributions)
 - [Host-based Intrusion Detection Systems](#host-based-intrusion-detection-systems)
 - [Hypervisors](#hypervisors)
@@ -57,6 +58,14 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Docker Engine](https://www.docker.com/products/container-runtime) - The Industry-Leading Container Runtime.
 - [frakti](https://github.com/kubernetes/frakti) - The hypervisor-based container runtime for Kubernetes.
 - [runC](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification.
+
+## Container orchestration systems
+
+- [Kubernetes](https://kubernetes.io/) - System for automating deployment, scaling, and management of containerized applications.
+- [Nomad](https://www.nomadproject.io/) - Easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications.
+- [okd](https://www.okd.io/) - OKD provides a complete open source container application platform which powers OpenShift (Kubernetes Distribution).
+- [OpenShift](https://www.openshift.com/) - A hybrid cloud, enterprise Kubernetes platform to build and deliver better applications faster. Can be run on ARM as well (Kubernetes Distribution).
+- [Rancher](https://rancher.com/) - From datacenter to cloud to the edge, Rancher lets you deliver Kubernetes-as-a-Service (Kubernetes Distribution).
 
 ## Distributions
 
