@@ -12,6 +12,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Build systems](#build-systems)
 - [Container runtimes](#container-runtimes)
 - [Container orchestration systems](#container-orchestration-systems)
+- [Databases](#databases)
 - [Distributions](#distributions)
 - [Host-based Intrusion Detection Systems](#host-based-intrusion-detection-systems)
 - [Hypervisors](#hypervisors)
@@ -66,6 +67,12 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [okd](https://www.okd.io/) - OKD provides a complete open source container application platform which powers OpenShift (Kubernetes Distribution).
 - [OpenShift](https://www.openshift.com/) - A hybrid cloud, enterprise Kubernetes platform to build and deliver better applications faster. Can be run on ARM as well (Kubernetes Distribution).
 - [Rancher](https://rancher.com/) - From datacenter to cloud to the edge, Rancher lets you deliver Kubernetes-as-a-Service (Kubernetes Distribution).
+
+## Databases
+
+- [MongoDB Mobile](https://www.mongodb.com/products/mobile) - NoSQL MongoDB as embedded database for embedded devices (embedded, document-oriented).
+- [Raima Database Manager](https://raima.com/raima-database-manager/) - Embedded, cross-platform, small-footprint, in-memory database developed for the IoT and the edge market (embedded, SQL).
+- [SQLite](https://www.sqlite.org) - Defacto standard embedded SQL database for mobile phones (embedded, SQL).
 
 ## Distributions
 
