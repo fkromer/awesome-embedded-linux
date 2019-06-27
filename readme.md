@@ -89,6 +89,8 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Embdebian](http://www.emdebian.org/) - Embedded Debian, DISCONTINUED.
 - [Embedded Gentoo](https://wiki.gentoo.org/wiki/Project:Embedded).
 - [LinRT](https://www.linrt.com/wiki/linrt-bsp-wiki/) - Embedded Linux distribution that uses the FSL Community Yocto Project layers with LinRT proprietary layers for Phytec’s SOMs and Single Board Computers.
+- [Mentor Embedded Linux Flex OS](https://www.mentor.com/embedded-software/linux/mel-flex-os/) - Highly customizable and flexible embedded Linux distribution based on the Yocto Project.
+- [Mentor Embedded Linux Omni OS](https://www.mentor.com/embedded-software/linux/mel-omni-os/) - Enterprise class binary embedded Linux distribution based on Debian.
 - [Moxa Industrial Linux](https://www.moxa.com/en/spotlight/industrial-computing/arm-linux-iiot-edge-gateway-portal/linux)
 - [OpenSTLinux](https://www.st.com/en/embedded-software/stm32-mpu-openstlinux-distribution.html) - Yocto Project based Linux Distribution for STM32 multi-core microprocessors (MPU).
 - [Sailfish OS](https://sailfishos.org/).
