@@ -121,10 +121,17 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Hypervisors
 
-- [Cross-OS](https://www.mapusoft.com/cross-os-hypervisor/) - Hypervisor used in the military domain.
-- [Crudible](https://starlab.io/crucible-product/) - Hypervisor for defense systems.
+- [ACRN](https://projectacrn.org/) - A flexible, lightweight reference hypervisor, built with real-time and safety-criticality in mind, optimized to streamline embedded development through an open source platform (type 1, bare metal).
+- [Cross-OS Hypervisor](https://www.mapusoft.com/cross-os-hypervisor/) - Hypervisor used in the military domain (type 1, bare metal).
+- [Crudible Embedded Hypervisor](https://starlab.io/crucible-product/) - Hypervisor for defense systems (type 1, bare metal).
 - [Jailhouse](https://github.com/siemens/jailhouse) - Linux-based partitioning hypervisor.
 - [L4Re Runtime Environment](https://l4re.org/) - Operating system framework built on top of the Fiasco microkernel and providing user-level infrastructure that includes services (program loading, memory management, virtual machine management, etc.).
+- [LxWin](https://www.acontis.com/ja/lxwin.html) - (type 1, bare metal).
+- [LynxSecure](https://info.lynx.com/products/lynxsecure-programmable-processor-partitioning-system) - Least privilege real-time separation kernel hypervisor (type 1, bare metal).
+- [PikeOS](https://www.sysgo.com/products/pikeos-hypervisor) - Currently (Jan 2019) the only hypervisor worldwide that holds a Common Criteria certification EAL 3+ for its separation performance (type 1, bare metal).
+- [QNX Hypervisor](https://blackberry.qnx.com/en/products/hypervisor/index) - (type 1, bare metal).
+- [RTS Hypervisor](https://www.real-time-systems.com/product-highlights.html) - (type 1, bare metal).
+- [Xen Project Hypervisor](https://xenproject.org/) - (type 1, bare metal).
 
 ## Init systems
 
