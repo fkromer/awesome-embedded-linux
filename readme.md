@@ -255,11 +255,31 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Trainings
 
+### System
+
+- [Embedded Android (2net)](http://www.2net.co.uk/training/embedded-android).
+- [Embedded Android + Automotive (2net)](http://www.2net.co.uk/training/embedded-android-automotive).
 - [Embedded Linux Trainging (bootlin)](https://bootlin.com/training/embedded-linux/) - Free slides and lab material, paid sessions.
+- [Mastering embedded Linux (2net)](http://www.2net.co.uk/training/fast-track-to-embedded-linux).
+
+### Build systems
+
 - [Embedded Linux development with Buildroot training (bootlin)](https://bootlin.com/training/buildroot/) - Free slides and lab material, paid sessions.
-- [Displaying and rendering graphics with Linux (bootlin)](https://bootlin.com/training/graphics/) - Free slides and lab material, paid sessions.
-- [Linux kernel and driver development training (bootlin)](https://bootlin.com/training/kernel/) - Free slides and lab material, paid sessions.
+- [Mastering Yocto Project (2net)](http://www.2net.co.uk/training/yocto-project).
 - [Yocto Project and OpenEmbedded development training (bootlin)](https://bootlin.com/training/yocto/) - Free slides and lab material, paid sessions.
+
+### System programming
+
+- [System programming for embedded Linux (2net)](http://www.2net.co.uk/training/system-programming-linux).
+
+### Kernel and device driver development
+
+- [Embedded Linux device drivers (2net)](http://www.2net.co.uk/training/embedded-linux-device-drivers).
+- [Linux kernel and driver development training (bootlin)](https://bootlin.com/training/kernel/) - Free slides and lab material, paid sessions.
+
+### Misc
+
+- [Displaying and rendering graphics with Linux (bootlin)](https://bootlin.com/training/graphics/) - Free slides and lab material, paid sessions.
 
 ## License
 
