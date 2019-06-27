@@ -27,6 +27,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Zero configuration networking](#zero-configuration-networking)
 - [Books](#books)
 - [Presentations](#presentations)
+- [Trainings](#trainings)
 
 ## Bootloaders
 
@@ -242,6 +243,14 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - Embedded Linux Conference Europe 2007 [slides](https://elinux.org/ELC_Europe_2007_Presentations)
 - Embedded Linux Conference North America 2007 [slides](https://elinux.org/ELC_2007_Presentations)
 - Embedded Linux Conference 2006 [slides](https://elinux.org/ELC_2006_Presentations)
+
+## Trainings
+
+- [Embedded Linux Trainging (bootlin)](https://bootlin.com/training/embedded-linux/) - Free slides and lab material, paid sessions.
+- [Embedded Linux development with Buildroot training (bootlin)](https://bootlin.com/training/buildroot/) - Free slides and lab material, paid sessions.
+- [Displaying and rendering graphics with Linux (bootlin)](https://bootlin.com/training/graphics/) - Free slides and lab material, paid sessions.
+- [Linux kernel and driver development training (bootlin)](https://bootlin.com/training/kernel/) - Free slides and lab material, paid sessions.
+- [Yocto Project and OpenEmbedded development training (bootlin)](https://bootlin.com/training/yocto/) - Free slides and lab material, paid sessions.
 
 ## License
 
