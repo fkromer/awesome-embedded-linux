@@ -260,12 +260,15 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Embedded Android (2net)](http://www.2net.co.uk/training/embedded-android).
 - [Embedded Android + Automotive (2net)](http://www.2net.co.uk/training/embedded-android-automotive).
 - [Embedded Linux Trainging (bootlin)](https://bootlin.com/training/embedded-linux/) - Free slides and lab material, paid sessions.
+- [Linux Basics (Linutronix)](https://linutronix.de/en/schulung/linux_anfaenger.php) - From Bootloader to System.
 - [Mastering embedded Linux (2net)](http://www.2net.co.uk/training/fast-track-to-embedded-linux).
 
 ### Build systems
 
+- [Debian Distribution (Linutronix)](https://linutronix.de/en/schulung/debian_distro.php) - An introduction to ELBE.
 - [Embedded Linux development with Buildroot training (bootlin)](https://bootlin.com/training/buildroot/) - Free slides and lab material, paid sessions.
 - [Mastering Yocto Project (2net)](http://www.2net.co.uk/training/yocto-project).
+- [Yocto (Linutronix)](https://linutronix.de/en/schulung/yocto.php) - An introduction to Yocto.
 - [Yocto Project and OpenEmbedded development training (bootlin)](https://bootlin.com/training/yocto/) - Free slides and lab material, paid sessions.
 
 ### System programming
@@ -277,9 +280,17 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Embedded Linux device drivers (2net)](http://www.2net.co.uk/training/embedded-linux-device-drivers).
 - [Linux kernel and driver development training (bootlin)](https://bootlin.com/training/kernel/) - Free slides and lab material, paid sessions.
 
+### Security
+
+- [Security (Linutronix)](https://linutronix.de/en/schulung/security.php) - Embedded security.
+
 ### Misc
 
 - [Displaying and rendering graphics with Linux (bootlin)](https://bootlin.com/training/graphics/) - Free slides and lab material, paid sessions.
+- [Fastboot (Linutronix)](https://linutronix.de/en/schulung/fastboot.php) - Boot Linux within One Second.
+- [Linux Advanced (Linutronix)](https://linutronix.de/en/schulung/linux_advanced.php) - Scheduling mechanisms, real-time, multicore, CPU isolation, IPC development, best practices of application development.
+- [Realtime (Linutronix)](https://linutronix.de/en/schulung/realtime_and_more.php) - Linux and Realtime (Preempt-RT).
+- [Tracing & Debug (Linutronix)](https://linutronix.de/en/schulung/tracing_and_more.php) - Detailed insight into the Linux Tracing Infrastructure and its powerful features.
 
 ## License
 
