@@ -106,6 +106,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Fedora CoreOS](https://coreos.fedoraproject.org/) - Combines the best of CoreOS Container Linux and Fedora Atomic Host: Automatically updating, minimal, monolithic, container-focused operating system, designed for clusters but also operable standalone, optimized for Kubernetes but also great without it.
 - [k3OS](https://k3os.io/) - k3OS is purpose-built to simplify Kubernetes operations in low-resource computing environments.
 - [Linux microPlatform](https://foundries.io/products/#linux) - A minimal Linux distribution built using OpenEmbedded/Yocto providing OTA software updates and a container-based application runtime.
+- [Oryx Linux](https://www.toganlabs.com/oryx-linux/) - Long-term maintenance oriented distribution providing a lightweight container runtime engine OryxCMD and Mender integration.
 - [OSv](http://osv.io/) - OSv is the versatile modular unikernel designed to run unmodified Linux applications securely on micro-VMs in the cloud or on on-premise bare metal servers.
 - [Photon OS](https://vmware.github.io/photon/) - Open source, minimal Linux container host that is optimized for cloud-native applications, cloud platforms and VMware infrastructure but runs on ARM as well.
 - [RancherOS](https://rancher.com/rancher-os) - A lightweight, secure Linux distribution, built from containers to run containers well.
