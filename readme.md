@@ -138,6 +138,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Init systems
 
+- [dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers.
 - [finit](http://troglobit.com/projects/finit/) - Fast init for Linux systems.
 - [minit](http://www.fefe.de/minit/) - A small yet feature-complete init.
 - [OpenRC](https://github.com/OpenRC/openrc) - Dependency-based init system that works with the system-provided init program.
