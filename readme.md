@@ -162,6 +162,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 ## OTA software updates
 
 - [HERE OTA Connect](https://www.here.com/products/automotive/ota-technology) - Over-the-air software updates for the automotive industry.
+- [libostree](https://ostree.readthedocs.io) - Both a shared library and suite of command line tools that combines a "git-like" model for committing and downloading bootable filesystem trees, along with a layer for deploying them and managing the bootloader configuration.
 - [Mender](https://mender.io/) - Open source client-server update manager.
 - [RAUC](https://rauc.io/) - Lightweight update client that runs on your Embedded Linux device and reliably controls the procedure of updating your device with a new firmware revision.
 
