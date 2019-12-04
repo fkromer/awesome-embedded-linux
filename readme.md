@@ -88,6 +88,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [ELinOS](https://www.sysgo.com/products/elinos-embedded-linux).
 - [Embdebian](http://www.emdebian.org/) - Embedded Debian, DISCONTINUED.
 - [Embedded Gentoo](https://wiki.gentoo.org/wiki/Project:Embedded).
+- [GoboLinux](https://gobolinux.org/) - Linux distribution redefining the entire filesystem hierarchy (no need for package database) which [runs on ARM](https://github.com/gobolinux/Documentation/wiki/GoboLinux-Embedded).
 - [LinRT](https://www.linrt.com/wiki/linrt-bsp-wiki/) - Embedded Linux distribution that uses the FSL Community Yocto Project layers with LinRT proprietary layers for Phytec’s SOMs and Single Board Computers.
 - [Mentor Embedded Linux Flex OS](https://www.mentor.com/embedded-software/linux/mel-flex-os/) - Highly customizable and flexible embedded Linux distribution based on the Yocto Project.
 - [Mentor Embedded Linux Omni OS](https://www.mentor.com/embedded-software/linux/mel-omni-os/) - Enterprise class binary embedded Linux distribution based on Debian.
