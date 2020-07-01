@@ -13,6 +13,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Container runtimes](#container-runtimes)
 - [Container orchestration systems](#container-orchestration-systems)
 - [Databases](#databases)
+- [Display servers](#display-servers)
 - [Distributions](#distributions)
 - [Host-based Intrusion Detection Systems](#host-based-intrusion-detection-systems)
 - [Hypervisors](#hypervisors)
@@ -74,6 +75,14 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [MongoDB Mobile](https://www.mongodb.com/products/mobile) - NoSQL MongoDB as embedded database for embedded devices (embedded, document-oriented).
 - [Raima Database Manager](https://raima.com/raima-database-manager/) - Embedded, cross-platform, small-footprint, in-memory database developed for the IoT and the edge market (embedded, SQL).
 - [SQLite](https://www.sqlite.org) - Defacto standard embedded SQL database for mobile phones (embedded, SQL).
+
+## Display Servers
+
+- [Enlightenment](http://www.enlightenment.org/) - (wayland, BSD).
+- [Mazecompositor](https://github.com/capisce/mazecompositor) -  A 3D qtwayland compositor (wayland, MIT).
+- [Mir](https://mir-server.io/) - The fast, open and secure display server for any device (wayland, GPL).
+- [SWAY](https://swaywm.org/) - Tiling Wayland compositor (wayland, MIT).
+- [Weston](https://github.com/wayland-project/weston) - Wayland project reference compositor (wayland, MIT).
 
 ## Distributions
 
