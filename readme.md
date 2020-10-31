@@ -179,8 +179,9 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Kubernetes 
 
-- Ubuntu Core/Server (snap)
-  - [microk8s](https://github.com/ubuntu/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
+- [K3s](https://k3s.io/) - The certified Kubernetes distribution built for IoT & Edge computing.
+- [microk8s](https://github.com/ubuntu/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge (Ubuntu core/server).
+- [minikube](https://github.com/kubernetes/minikube) - minikube implements a local Kubernetes cluster (Linux).
 
 ## Kubernetes Edge Computing Platforms
 
