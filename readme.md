@@ -31,6 +31,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Books](#books)
 - [Presentations](#presentations)
 - [Trainings](#trainings)
+- [Related awesome lists](#related-awesome-lists)
 
 ## Bootloaders
 
@@ -321,6 +322,12 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Linux Advanced (Linutronix)](https://linutronix.de/en/schulung/linux_advanced.php) - Scheduling mechanisms, real-time, multicore, CPU isolation, IPC development, best practices of application development.
 - [Realtime (Linutronix)](https://linutronix.de/en/schulung/realtime_and_more.php) - Linux and Realtime (Preempt-RT).
 - [Tracing & Debug (Linutronix)](https://linutronix.de/en/schulung/tracing_and_more.php) - Detailed insight into the Linux Tracing Infrastructure and its powerful features.
+
+## Related awesome lists
+
+- [awesome-edge-ai](https://github.com/rcmalli/awesome-edge-ai)
+- [awesome-edge-computing](https://github.com/qijianpeng/awesome-edge-computing)
+- [awesome-edge-machine-learning](https://github.com/Bisonai/awesome-edge-machine-learning)
 
 ## License
 
