@@ -12,6 +12,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Build systems](#build-systems)
 - [Container runtimes](#container-runtimes)
 - [Container orchestration systems](#container-orchestration-systems)
+- [Cloud infrastructure](#cloud-infrastructure)
 - [Databases](#databases)
 - [Display servers](#display-servers)
 - [Distributions](#distributions)
@@ -73,6 +74,10 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [okd](https://www.okd.io/) - OKD provides a complete open source container application platform which powers OpenShift (Kubernetes Distribution).
 - [OpenShift](https://www.openshift.com/) - A hybrid cloud, enterprise Kubernetes platform to build and deliver better applications faster. Can be run on ARM as well (Kubernetes Distribution).
 - [Rancher](https://rancher.com/) - From datacenter to cloud to the edge, Rancher lets you deliver Kubernetes-as-a-Service (Kubernetes Distribution).
+
+## Cloud Infrastructure
+
+- [StarlingX](https://www.starlingx.io/) - StarlingX is a complete cloud infrastructure software stack for the edge used by the most demanding applications in industrial IOT, telecom, video delivery and other ultra-low latency use cases.
 
 ## Databases
 
