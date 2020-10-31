@@ -111,9 +111,10 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Ubuntu Core](https://www.ubuntu.com/core).
 - [Wind River Linux](https://www.windriver.com/products/linux/).
 
-### Kubernetes Operating Systems
+### Container Orchestration Distributions
 
 - [k3os](https://k3os.io/) - Linux distribution designed to remove as much OS maintenance as possible in a Kubernetes cluster. It is specifically designed to only have what is needed to run k3s.
+- [Photon OS](https://vmware.github.io/photon/) - Open source, minimal Linux container host that is optimized for cloud-native applications, cloud platforms and VMware infrastructure but runs on ARM as well. Supports Docker (container runtime) as well as Mesons and Kubernetes (container orchestration).
 
 ### Container Runtime Distributions
 
@@ -123,7 +124,6 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Linux microPlatform](https://foundries.io/products/#linux) - A minimal Linux distribution built using OpenEmbedded/Yocto providing OTA software updates and a container-based application runtime.
 - [Oryx Linux](https://www.toganlabs.com/oryx-linux/) - Long-term maintenance oriented distribution providing a lightweight container runtime engine OryxCMD and Mender integration.
 - [OSv](http://osv.io/) - OSv is the versatile modular unikernel designed to run unmodified Linux applications securely on micro-VMs in the cloud or on on-premise bare metal servers.
-- [Photon OS](https://vmware.github.io/photon/) - Open source, minimal Linux container host that is optimized for cloud-native applications, cloud platforms and VMware infrastructure but runs on ARM as well.
 - [RancherOS](https://rancher.com/rancher-os) - A lightweight, secure Linux distribution, built from containers to run containers well.
 - [Torizon](https://labs.toradex.com/projects/torizon) - Linux-based software platform providing a preconfigured Yocto-based Linux distribution, bootloader, OTA service and Docker container runtime.
 
@@ -176,7 +176,8 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Kubernetes 
 
-- [microk8s](https://github.com/ubuntu/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
+- Ubuntu Core/Server (snap)
+  - [microk8s](https://github.com/ubuntu/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
 
 ## OTA software updates
 
