@@ -183,6 +183,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Kubernetes Edge Computing Platforms
 
+- [Baetyl](https://baetyl.io/en/) - Baetyl, extend cloud computing, data and service seamlessly to edge devices.
 - [KubeEdge](https://kubeedge.io/en/) - KubeEdge is built upon Kubernetes and extends native containerized application orchestration and device management to hosts at the Edge.
 
 ## OTA software updates
