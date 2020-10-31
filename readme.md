@@ -179,6 +179,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Kubernetes 
 
+- [Akri](https://github.com/deislabs/akri) - Akri lets you easily expose heterogeneous leaf devices (such as IP cameras and USB devices) as resources in a Kubernetes cluster, while also supporting the exposure of embedded hardware resources such as GPUs and FPGAs.
 - [K3s](https://k3s.io/) - The certified Kubernetes distribution built for IoT & Edge computing.
 - [microk8s](https://github.com/ubuntu/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge (Ubuntu core/server).
 - [minikube](https://github.com/kubernetes/minikube) - minikube implements a local Kubernetes cluster (Linux).
