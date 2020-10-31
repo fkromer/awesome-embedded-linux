@@ -52,6 +52,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [OpenBricks](https://github.com/OpenBricks/openbricks).
 - [OpenEmbedded](http://www.openembedded.org/wiki/Main_Page) - Build system used in the [Yocto Project](https://www.yoctoproject.org/).
 - [OpenWrt](https://openwrt.org/).
+- [picl-k3os-image-generator](https://github.com/sgielen/picl-k3os-image-generator) - Generates images for k3os compatible with various armv8/aarch64/arm64 devices.
 - [PTXdist](https://www.ptxdist.org).
 
 ## Container runtimes
