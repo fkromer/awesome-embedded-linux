@@ -13,6 +13,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Container runtimes](#container-runtimes)
 - [Container orchestration systems](#container-orchestration-systems)
 - [Cloud infrastructure](#cloud-infrastructure)
+- [Cloud provider integration](#cloud-provider-integration)
 - [Databases](#databases)
 - [Display servers](#display-servers)
 - [Distributions](#distributions)
@@ -78,6 +79,18 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 ## Cloud Infrastructure
 
 - [StarlingX](https://www.starlingx.io/) - StarlingX is a complete cloud infrastructure software stack for the edge used by the most demanding applications in industrial IOT, telecom, video delivery and other ultra-low latency use cases.
+
+## Cloud Provider Integration
+
+- [Azure IoT Edge](https://github.com/Azure/iotedge) - IoT Edge moves cloud analytics and custom business logic to devices so that your organization can focus on business insights instead of data management. Enable your solution to truly scale by configuring your IoT software, deploying it to devices via standard containers, and monitoring it all from the cloud.
+- [AWS Edge](https://aws.amazon.com/edge/)
+  - [IoT Core](https://aws.amazon.com/iot-core/) - Easily and securely connect devices to the cloud. Reliably scale to billions of devices and trillions of messages.
+  - [IoT Device Management](https://aws.amazon.com/iot-device-management) - Register, organize, monitor, and remotely manage connected devices at scale.
+  - [IoT Events](https://aws.amazon.com/iot-events/) -  Easily detect and respond to events from IoT sensors and applications.
+  - [IoT Greengrass](https://aws.amazon.com/greengrass/) -  Bring local compute, messaging, data management, sync, and ML inference capabilities to edge devices.
+  - [Sagemaker Neo](https://aws.amazon.com/sagemaker/neo/) - Train models once, run anywhere with up to 2x performance improvement.
+  - [IoT Sitewise](https://aws.amazon.com/iot-sitewise) - Easily collect, organize and analyze data from industrial equipment at scale.
+  - [Wavelength](https://aws.amazon.com/wavelength/) - Deliver ultra-low latency applications for 5G devices.
 
 ## Databases
 
