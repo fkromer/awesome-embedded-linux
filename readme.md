@@ -109,6 +109,10 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Ubuntu Core](https://www.ubuntu.com/core).
 - [Wind River Linux](https://www.windriver.com/products/linux/).
 
+### Kubernetes Operating Systems
+
+- [k3os](https://k3os.io/) - Linux distribution designed to remove as much OS maintenance as possible in a Kubernetes cluster. It is specifically designed to only have what is needed to run k3s.
+
 ### Container Runtime Distributions
 
 - [BalenaOS (formerly ResinOS)](https://www.balena.io/os/) - Operating System tailored for containers, designed for reliability, proven in production. Meant to be used with [OpenBalena](https://www.balena.io/open/) to deploy and manage connected devices and with [BalenaCloud](https://www.balena.io/cloud/) for deploying IoT applications.
