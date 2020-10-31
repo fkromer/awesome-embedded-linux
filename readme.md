@@ -21,6 +21,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Kernel patches](#kernel-patches)
 - [Kernel modules](#kernel-modules)
 - [Kubernetes](#kubernetes)
+- [Kubernetes Edge Computing Platforms](#kubernetes-edge-computing-platforms)
 - [OTA software updates](#ota-software-updates)
 - [Platforms](#platforms)
 - [Process control systems](#process-control-systems)
@@ -178,6 +179,10 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 - Ubuntu Core/Server (snap)
   - [microk8s](https://github.com/ubuntu/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
+
+## Kubernetes Edge Computing Platforms
+
+- [KubeEdge](https://kubeedge.io/en/) - KubeEdge is built upon Kubernetes and extends native containerized application orchestration and device management to hosts at the Edge.
 
 ## OTA software updates
 
