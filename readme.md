@@ -20,6 +20,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Host-based Intrusion Detection Systems](#host-based-intrusion-detection-systems)
 - [Hypervisors](#hypervisors)
 - [Init systems](#init-systems)
+- [IoT platform integrations](#iot-platform-integrations)
 - [Kernel patches](#kernel-patches)
 - [Kernel modules](#kernel-modules)
 - [Kubernetes](#kubernetes)
@@ -183,6 +184,10 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [runit](http://smarden.org/runit/) - A UNIX init scheme with service supervision.
 - [systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager.
 - [upstart](http://upstart.ubuntu.com/) - Event-based init system.
+
+## IoT platform integrations
+
+[2019/2020 there existed approx. 600 IoT platforms.](https://iot-analytics.com/iot-platform-companies-landscape-2020/) "IoT" includes domains like healthcare, industry, etc. 
 
 ## Kernel patches
 
