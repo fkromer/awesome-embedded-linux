@@ -357,6 +357,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Awesome Edge Intelligence](https://github.com/YanLu-nyu/Awesome-Edge-Intelligence)
 - [awesome-edge-machine-learning](https://github.com/Bisonai/awesome-edge-machine-learning)
 - [awesome-ubuntu-core](https://github.com/fkromer/awesome-ubuntu-core)
+- [awesome-yocto-project](https://github.com/fkromer/awesome-yocto-project)
 
 ## License
 
